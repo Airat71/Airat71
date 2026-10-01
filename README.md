@@ -31,7 +31,7 @@ Building production-ready tools with Prometheus, Grafana, Ansible, and Docker.
 ## Featured Projects
 
 ### Enterprise Monitoring Stack *(flagship)*
-Production-ready monitoring with Prometheus, Grafana, Alertmanager, and **unique fail2ban security integration**. One-command Ansible deployment across multiple servers. Open Core model (FREE + PRO).
+Production-ready monitoring with Prometheus, Grafana, Alertmanager, and **unique fail2ban security integration**. One-command Ansible deployment across multiple servers. Full open source, MIT license.
 **→ [monitoring-stack](https://github.com/Airat71/monitoring-stack)**
 
 ### Linux Admin Toolkit
