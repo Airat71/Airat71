@@ -67,6 +67,18 @@ Open to freelance projects and collaboration.
 
 ---
 
+## Обо мне
+
+DevOps-инженер: мониторинг, автоматизация инфраструктуры, безопасность серверов.
+Строю production-ready решения на Prometheus, Grafana, Ansible, Docker.
+
+Открыт для фриланс-проектов и сотрудничества.
+
+- Email: airat71@proton.me
+- Telegram: [@Airat71](https://t.me/Airat71)
+
+---
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Airat71&show_icons=true&theme=dark&hide_border=true&count_private=false" alt="GitHub Stats"/>
   &nbsp;&nbsp;
