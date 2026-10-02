@@ -74,5 +74,9 @@ Open to freelance projects and collaboration.
 </div>
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Airat71&theme=dark&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=Airat71&style=flat-square&color=blue" alt="Profile views"/>
 </div>
