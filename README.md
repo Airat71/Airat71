@@ -3,6 +3,8 @@
 Specializing in **monitoring, infrastructure automation, and security hardening**.
 Building production-ready tools with Prometheus, Grafana, Ansible, and Docker.
 
+**→ [monitoring-stack](https://github.com/Airat71/monitoring-stack)** — self-hosted Prometheus + Grafana + Alertmanager + Ansible · MIT
+
 ---
 
 ## Tech Stack
