@@ -3,6 +3,8 @@
 Specializing in **monitoring, infrastructure automation, and security hardening**.
 Building production-ready tools with Prometheus, Grafana, Ansible, and Docker.
 
+**→ [monitoring-stack](https://github.com/Airat71/monitoring-stack)** — self-hosted Prometheus + Grafana + Alertmanager + Ansible · MIT
+
 ---
 
 ## Tech Stack
@@ -76,6 +78,16 @@ DevOps-инженер: мониторинг, автоматизация инфр
 - Telegram: [@Airat71](https://t.me/Airat71)
 
 ---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Airat71&show_icons=true&theme=dark&hide_border=true&count_private=false" alt="GitHub Stats"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Airat71&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Airat71&theme=dark&hide_border=true" alt="GitHub Streak"/>
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Airat71&style=flat-square&color=blue" alt="Profile views"/>
