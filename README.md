@@ -1,6 +1,6 @@
-# Hi, I'm Airat
+# Hi, I'm Airat — DevOps engineer
 
-Systems administrator, learning DevOps in public. I work on **monitoring, infrastructure automation and Linux server hardening**.
+I work on **monitoring, infrastructure automation and Linux server hardening**.
 My tools: Prometheus, Grafana, Ansible, Docker.
 
 **→ [monitoring-stack](https://github.com/Airat71/monitoring-stack)** — self-hosted Prometheus + Grafana + Alertmanager + Ansible · MIT
@@ -62,12 +62,16 @@ Lightweight server monitoring with Ansible automation, Telegram alerts, and a we
 - Telegram: [@Airat71](https://t.me/Airat71)
 - GitHub: [Airat71](https://github.com/Airat71)
 
+Open to freelance projects and collaboration.
+
 ---
 
 ## Обо мне
 
-Системный администратор, осваиваю DevOps открыто. Занимаюсь мониторингом, автоматизацией серверов и защитой Linux.
+DevOps-инженер. Занимаюсь мониторингом, автоматизацией серверов и защитой Linux.
 Инструменты: Prometheus, Grafana, Ansible, Docker.
+
+Открыт для фриланс-проектов и сотрудничества.
 
 - Email: airat71@proton.me
 - Telegram: [@Airat71](https://t.me/Airat71)
