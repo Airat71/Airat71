@@ -20,6 +20,7 @@ My tools: Prometheus, Grafana, Ansible, Docker.
 
 ### Automation & IaC
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -62,16 +63,12 @@ Lightweight server monitoring with Ansible automation, Telegram alerts, and a we
 - Telegram: [@Airat71](https://t.me/Airat71)
 - GitHub: [Airat71](https://github.com/Airat71)
 
-Open to freelance projects and collaboration.
-
 ---
 
 ## Обо мне
 
 DevOps-инженер. Занимаюсь мониторингом, автоматизацией серверов и защитой Linux.
 Инструменты: Prometheus, Grafana, Ansible, Docker.
-
-Открыт для фриланс-проектов и сотрудничества.
 
 - Email: airat71@proton.me
 - Telegram: [@Airat71](https://t.me/Airat71)
