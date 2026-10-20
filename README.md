@@ -1,7 +1,7 @@
-# Hi, I'm Airat — DevOps / Systems Engineer
+# Hi, I'm Airat — DevOps engineer
 
-Specializing in **monitoring, infrastructure automation, and security hardening**.
-Building production-ready tools with Prometheus, Grafana, Ansible, and Docker.
+I work on **monitoring, infrastructure automation and Linux server hardening**.
+My tools: Prometheus, Grafana, Ansible, Docker.
 
 **→ [monitoring-stack](https://github.com/Airat71/monitoring-stack)** — self-hosted Prometheus + Grafana + Alertmanager + Ansible · MIT
 
@@ -20,6 +20,7 @@ Building production-ready tools with Prometheus, Grafana, Ansible, and Docker.
 
 ### Automation & IaC
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -32,12 +33,12 @@ Building production-ready tools with Prometheus, Grafana, Ansible, and Docker.
 
 ## Featured Projects
 
-### Enterprise Monitoring Stack *(flagship)*
-Production-ready monitoring with Prometheus, Grafana, Alertmanager, and **unique fail2ban security integration**. One-command Ansible deployment across multiple servers. Full open source, MIT license.
+### Monitoring Stack *(main project)*
+Prometheus, Grafana and Alertmanager with a fail2ban dashboard and alerts. Ansible deploys it to one or several servers. MIT license.
 **→ [monitoring-stack](https://github.com/Airat71/monitoring-stack)**
 
 ### Linux Admin Toolkit
-Collection of battle-tested Bash scripts for daily sysadmin tasks: monitoring, backups, security hardening, automation.
+Seven Bash scripts for routine server work: system info, disk usage, open ports, backups, log cleanup, SSH hardening. The README says which ones I ran and which I did not.
 **→ [linux-admin-toolkit](https://github.com/Airat71/linux-admin-toolkit)**
 
 ### Server Monitoring
@@ -48,12 +49,11 @@ Lightweight server monitoring with Ansible automation, Telegram alerts, and a we
 
 ## What I Do
 
-- Design and deploy **monitoring stacks** (Prometheus, Grafana, Alertmanager)
-- Automate infrastructure with **Ansible** and **Bash/Python**
-- Harden Linux servers (firewall, fail2ban, SSH, SSL/TLS)
-- Set up **Docker** production environments
-- Configure **Nginx** (reverse proxy, load balancing, caching)
-- Build backup and disaster recovery systems
+- Set up **monitoring stacks** (Prometheus, Grafana, Alertmanager)
+- Automate server setup with **Ansible** and **Bash/Python**
+- Harden Linux servers (fail2ban, SSH)
+- Run services in **Docker**
+- Write backup scripts
 
 ---
 
@@ -63,16 +63,12 @@ Lightweight server monitoring with Ansible automation, Telegram alerts, and a we
 - Telegram: [@Airat71](https://t.me/Airat71)
 - GitHub: [Airat71](https://github.com/Airat71)
 
-Open to freelance projects and collaboration.
-
 ---
 
 ## Обо мне
 
-DevOps-инженер: мониторинг, автоматизация инфраструктуры, безопасность серверов.
-Строю production-ready решения на Prometheus, Grafana, Ansible, Docker.
-
-Открыт для фриланс-проектов и сотрудничества.
+DevOps-инженер. Занимаюсь мониторингом, автоматизацией серверов и защитой Linux.
+Инструменты: Prometheus, Grafana, Ansible, Docker.
 
 - Email: airat71@proton.me
 - Telegram: [@Airat71](https://t.me/Airat71)
