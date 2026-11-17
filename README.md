@@ -2,7 +2,7 @@
 
 I build and test monitoring and server automation: Prometheus, Grafana, Alertmanager, Ansible, Docker.
 
-**Latest:** I followed my own README on a clean VM. It failed 24 times. I fixed all of them in 15 pull requests. [Read the write-up](https://dev.to/airat71/i-tested-my-own-docs-like-a-stranger-they-failed-24-times-1ekf)
+**Latest:** I followed my own README on a clean VM. It failed 24 times. I fixed 21 of them in 15 pull requests. [Read the write-up](https://dev.to/airat71/i-tested-my-own-docs-like-a-stranger-they-failed-24-times-1ekf)
 
 ---
 
